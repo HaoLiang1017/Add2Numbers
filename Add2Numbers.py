@@ -1,3 +1,3 @@
-a=input('Please enter the first number')
-b=input('Please enter the second number')
+a=int(input('Please enter the first number'))
+b=int(input('Please enter the second number'))
 print("A+B=",a+b)
